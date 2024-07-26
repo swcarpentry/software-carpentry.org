@@ -50,6 +50,10 @@ main:
 - identifier: lessons
   name: Lessons
   url: "/lessons/"
+# Main Carpentries site
+- identifier: carpentries
+  name: The Carpentries
+  url: "https://carpentries.org"
 
 footer:
 # Footer menu: Menu 1
