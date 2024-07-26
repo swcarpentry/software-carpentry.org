@@ -38,12 +38,12 @@ main:
   weight: 20
 - identifier: workshops-upcoming
   name: Upcoming Workshops
-  pageRef: "/workshops-upcoming/"
+  pageRef: "/workshops/workshops-upcoming/"
   parent: workshops
   weight: 10
 - identifier: workshops-past
   name: Past Workshops
-  pageRef: "/workshops-past/"
+  pageRef: "/workshops/workshops-past/"
   parent: workshops
   weight: 20
 
