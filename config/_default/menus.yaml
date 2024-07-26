@@ -46,6 +46,10 @@ main:
   pageRef: "/workshops/workshops-past/"
   parent: workshops
   weight: 20
+# Lessons menu
+- identifier: lessons
+  name: Lessons
+  url: "/lessons/"
 
 footer:
 # Footer menu: Menu 1
