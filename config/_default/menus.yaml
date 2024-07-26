@@ -1,13 +1,13 @@
 # Top menu for Carpentries & Lesson Programs
 top:
   - name: The Carpentries
-    url: /
+    url: https://carpentries.org
     weight: 10
   - name: Data Carpentry
     url: https://datacarpentry.org/
     weight: 20
   - name: Software Carpentry
-    url: https://software-carpentry.org/
+    url: /
     weight: 30
   - name: Library Carpentry
     url: https://librarycarpentry.org/
