@@ -1,13 +1,13 @@
 # Top menu for Carpentries & Lesson Programs
 top:
   - name: The Carpentries
-    url: /
+    url: https://carpentries.org
     weight: 10
   - name: Data Carpentry
     url: https://datacarpentry.org/
     weight: 20
   - name: Software Carpentry
-    url: https://software-carpentry.org/
+    url: /
     weight: 30
   - name: Library Carpentry
     url: https://librarycarpentry.org/
@@ -27,7 +27,7 @@ main:
   weight: 20
 - identifier: curriculum-advisors
   name:  Curriculum Advisors
-  pageRef: "/curriculum-advisors/"
+  pageRef: "https://carpentries.org/curriculum-advisors/"
   parent: about-us
   weight: 30
 # Learn Menu
@@ -50,6 +50,10 @@ main:
 - identifier: lessons
   name: Lessons
   url: "/lessons/"
+# Main Carpentries site
+- identifier: carpentries
+  name: The Carpentries
+  url: "https://carpentries.org"
 
 footer:
 # Footer menu: Menu 1
