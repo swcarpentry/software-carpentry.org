@@ -9,6 +9,8 @@ top:
   - name: Software Carpentry
     url: /
     weight: 30
+    params:
+      active: true
   - name: Library Carpentry
     url: https://librarycarpentry.org/
     weight: 40
