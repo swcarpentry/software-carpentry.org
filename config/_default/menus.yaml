@@ -60,6 +60,11 @@ main:
   url: "https://carpentries.org"
   parent: null
   weight: 40
+- identifier: search
+  name: Search
+  url: /search/
+  parent: null
+  weight: 50
 
 footer:
 # Footer menu: Menu 1
