@@ -57,7 +57,7 @@ main:
 # Main Carpentries site
 - identifier: carpentries
   name: The Carpentries
-  url: "https://carpentries.org"
+  url: "https://carp-new-website.netlify.app/"
   parent: null
   weight: 40
 - identifier: search
