@@ -7,6 +7,25 @@ widgets:
 ---
 
 
+Check out some icons
+
+thumb
+  <i class="fas fa-thumbs-up"></i>
+thumb 
+edit
+<i class="fa fa-edit"></i>
+edit
+pencil
+<i class="fa fa-pencil"></i>
+pencil
+facebook
+<i class="fab fa-facebook"></i>
+facebook
+bars
+<i class="fas fa-bars"></i>
+bars
+
+
 Here is information about our lessons.
 
 {{< table >}}
