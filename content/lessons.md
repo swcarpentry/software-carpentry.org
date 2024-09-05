@@ -39,3 +39,9 @@ Here is information about our lessons.
 | R for Reproducible Scientific Analysis | url | github | ref | notes | maintainers | 
 
 {{< /table >}}
+
+
+<h3>This is a header</h3>
+Here is just plain text. 
+
+and some more
