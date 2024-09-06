@@ -7,3 +7,50 @@ logoFooterAlt: Software Carpentry
 footer_overview_text: Software Carpentry is a lesson program of The Carpentries. Cake pastry candy carrot cake croissant tootsie roll chocolate bar dragée cotton candy.
 
 git_repo: https://github.com/swcarpentry/new-website
+
+
+# Fontawesome icon names 
+fa-window: fas fa-window-maximize
+fa-github: fab fa-github
+fa-eye: fas fa-eye
+fa-plus: fas fa-plus
+
+# Lesson websites - English
+shell_lesson: https://swcarpentry.github.io/shell-novice/
+git_lesson: https://swcarpentry.github.io/git-novice
+python-prog_lesson: https://swcarpentry.github.io/python-novice-inflammation
+python-plot_lesson: https://swcarpentry.github.io/python-novice-gapminder
+r-prog_lesson: https://swcarpentry.github.io/r-novice-inflammation/
+r-repro_lesson: https://swcarpentry.github.io/r-novice-gapminder
+# Lesson websites - Spanish
+shell_lesson-es: https://swcarpentry.github.io/shell-novice-es
+git_lesson-es: https://swcarpentry.github.io/git-novice-es
+r-repro_lesson-es: https://swcarpentry.github.io/r-novice-gapminder-es
+
+
+# Lesson repos
+shell_lesson_repo: https://github.com/swcarpentry/shell-novice
+git_lesson_repo: https://github.com/swcarpentry/git-novice
+python-prog_lesson_repo: https://github.com/swcarpentry/python-novice-inflammation
+python-plot_lesson_repo: https://github.com/swcarpentry/python-novice-gapminder
+r-prog_lesson_repo: https://github.com/swcarpentry/r-novice-inflammation
+r-repro_lesson_repo: https://github.com/swcarpentry/r-novice-gapminder
+shell_lesson-repo-es: https://github.com/swcarpentry/shell-novice-es
+git_lesson_repo-es: https://github.com/swcarpentry/git-novice-es
+r-repro_lesson_repo-es: https://github.com/swcarpentry/r-novice-gapminder-es
+
+# Lesson Reference
+shell_lesson_ref: https://swcarpentry.github.io/shell-novice/reference
+git_lesson_ref: https://swcarpentry.github.io/git-novice/reference
+python-prog_lesson_ref: https://swcarpentry.github.io/python-novice-inflammation/reference
+python-plot_lesson_ref: https://swcarpentry.github.io/python-novice-gapminder/reference
+r-prog_lesson_ref: https://swcarpentry.github.io/r-novice-inflammation/reference
+r-repro_lesson_ref: https://swcarpentry.github.io/r-novice-gapminder/reference
+
+# Lesson Notes
+shell_lesson_notes: https://swcarpentry.github.io/shell-novice/instructor/instructor-notes
+git_lesson_notes: https://swcarpentry.github.io/git-novice/instructor/instructor-notes
+python-prog_lesson_notes: https://swcarpentry.github.io/python-novice-inflammation/instructor/instructor-notes
+python-plot_lesson_notes: https://swcarpentry.github.io/python-novice-gapminder/instructor/instructor-notes
+r-prog_lesson_notes: https://swcarpentry.github.io/r-novice-inflammation/instructor/instructor-notes
+r-repro_lesson_notes: https://swcarpentry.github.io/r-novice-gapminder/instructor/instructor-notes
