@@ -12,12 +12,12 @@ Here is information about our lessons.
 {{< table >}}
 | Lesson   | Site  | Repository | Reference | Instructor Notes | Maintainers | 
 |----------|-------|------------|-----------| ---------------- | ----------- |
-| The Unix Shell    | <a href="{{< param shell_lesson >}}"><i class="{{< param fa-window>}}"></i></a> | <i class="{{< param fa-github >}}"></i> | ref | notes | maintainers | 
-| Version control with Git   | <a href="{{< param git_lesson >}}"><i class="{{< param fa-window>}}"></i></a> | <i class="{{< param fa-github >}}"></i> | ref | notes | maintainers | 
-| Programming with Python   | <a href="{{< param python-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | ref | notes | maintainers | 
-| Plotting and programming with Python   | <a href="{{< param python-plot_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | ref |  notes | maintainers | 
-| Programming with R | <a href="{{< param r-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | ref | notes | maintainers | 
-| R for Reproducible Scientific Analysis | <a href="{{< param r-repro_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | ref | notes | maintainers | 
+| The Unix Shell    | <a href="{{< param shell_lesson >}}"><i class="{{< param fa-window>}}"></i></a> | <i class="{{< param fa-github >}}"></i> | <i class="{{< param fa-eye >}}"></i> | <i class="{{< param fa-plus >}}"></i> | maintainers | 
+| Version control with Git   | <a href="{{< param git_lesson >}}"><i class="{{< param fa-window>}}"></i></a> | <i class="{{< param fa-github >}}"></i> | <i class="{{< param fa-eye >}}"></i> | <i class="{{< param fa-plus >}}"></i> | maintainers | 
+| Programming with Python   | <a href="{{< param python-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | <i class="{{< param fa-eye >}}"></i> | <i class="{{< param fa-plus >}}"></i> | maintainers | 
+| Plotting and programming with Python   | <a href="{{< param python-plot_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | <i class="{{< param fa-eye >}}"></i> |  <i class="{{< param fa-plus >}}"></i> | maintainers | 
+| Programming with R | <a href="{{< param r-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | <i class="{{< param fa-eye >}}"></i> | <i class="{{< param fa-plus >}}"></i> | maintainers | 
+| R for Reproducible Scientific Analysis | <a href="{{< param r-repro_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <i class="{{< param fa-github >}}"></i> | <i class="{{< param fa-eye >}}"></i> | <i class="{{< param fa-plus >}}"></i> | maintainers | 
 
 {{< /table >}}
 
