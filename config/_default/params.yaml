@@ -7,3 +7,12 @@ logoFooterAlt: Software Carpentry
 footer_overview_text: Software Carpentry is a lesson program of The Carpentries. Cake pastry candy carrot cake croissant tootsie roll chocolate bar dragée cotton candy.
 
 git_repo: https://github.com/swcarpentry/new-website
+
+fa-window: fas fa-window-maximize
+fa-github: fab fa-github
+shell_lesson: https://swcarpentry.github.io/shell-novice/
+git_lesson: https://swcarpentry.github.io/git-novice
+python-prog_lesson: https://swcarpentry.github.io/python-novice-inflammation
+python-plot_lesson: https://swcarpentry.github.io/python-novice-gapminder
+r-prog_lesson: https://swcarpentry.github.io/r-novice-inflammation/
+r-repro_lesson: https://swcarpentry.github.io/r-novice-gapminder
