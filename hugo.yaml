@@ -1,4 +1,7 @@
 # hugo.yaml
+baseURL: https://swc-new-website.netlify.app/
+languageCode: en-us
+title: Software Carpentry
 # Imports the theme into the projects
 module:
   imports:
