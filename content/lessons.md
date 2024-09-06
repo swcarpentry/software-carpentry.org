@@ -6,6 +6,7 @@ widgets:
 - sponsors
 ---
 
+## Core Lessons in English
 
 {{< table >}}
 | Lesson   | Site  | Repository | Reference | Instructor Notes | Maintainers | 
@@ -88,3 +89,12 @@ Testing out same table in HTML - better code readability
 </tbody>
 </table>
 {{< /table >}}
+
+## Core Lessons in Spanish
+
+Spanish table goes here
+
+## Additional Lessons
+
+Additional Lessons table goes here
+
