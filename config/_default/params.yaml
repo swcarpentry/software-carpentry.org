@@ -10,6 +10,8 @@ git_repo: https://github.com/swcarpentry/new-website
 
 fa-window: fas fa-window-maximize
 fa-github: fab fa-github
+fa-eye: fas fa-eye
+fa-plus: fas fa-plus
 shell_lesson: https://swcarpentry.github.io/shell-novice/
 git_lesson: https://swcarpentry.github.io/git-novice
 python-prog_lesson: https://swcarpentry.github.io/python-novice-inflammation
