@@ -92,7 +92,46 @@ Testing out same table in HTML - better code readability
 
 ## Core Lessons in Spanish
 
-Spanish table goes here
+{{< table >}}
+<table>
+<thead>
+<tr>
+<th>Lección</th>
+<th>Sitio web</th>
+<th>Repositorio</th>
+<th>Referencias</th>
+<th>Notas para Instructoras/es</th>
+<th>Reponsable(s) del mantenimiento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>La Terminal de Unix</td>
+<td><a href="{{< param shell_lesson-es >}}"><i class="{{< param fa-window>}}"></i></a></td>
+<td><a href="{{< param shell_lesson-repo-es >}}"><i class="{{< param fa-github >}}"></i></a></td>
+<td><a href="{{< param shell_lesson-es >}}/reference"><i class="{{< param fa-eye >}}"></i></a></td>
+<td><a href="{{< param shell_lesson-es >}}/instructor/instructor-notes"><i class="{{< param fa-plus >}}"></i></a></td>
+<td>Verónica Jiménez, Clara Llebot, Heladia Salgado</td>
+</tr>
+<tr>
+<td>Control de versiones con Git	</td>
+<td><a href="{{< param git_lesson-es >}}"><i class="{{< param fa-window>}}"></i></a></td>
+<td><a href="{{< param git_lesson_repo-es >}}"><i class="{{< param fa-github >}}"></i></a></td>
+<td><a href="{{< param git_lesson-es >}}/reference"><i class="{{< param fa-eye >}}"></i></a></td>
+<td><a href="{{< param git_lesson-es >}}/instructor/instructor-notes"><i class="{{< param fa-plus >}}"></i></a></td>
+<td>Jean-Paul Courneya, Clara Llebot, Mariana Patricia Gomez Nicolas</td>
+</tr>
+<tr>
+<td>R para Análisis Científicos Reproducibles</td>
+<td><a href="{{< param r-repro_lesson-es >}}"><i class="{{< param fa-window>}}"></i></a></td>
+<td><a href="{{< param r-repro_lesson_repo-es >}}"><i class="{{< param fa-github >}}"></i></a></td>
+<td><a href="{{< param r-repro_lesson-es >}}/reference"><i class="{{< param fa-eye >}}"></i></a></td>
+<td><a href="{{< param r-repro_lesson-es >}}/instructor/instructor-notes"><i class="{{< param fa-plus >}}"></i></a></td>
+<td>Verónica Jiménez, Heladia Salgado, Nelly Sélem</td>
+</tr>
+</tbody>
+</table>
+{{< /table >}}
 
 ## Additional Lessons
 
