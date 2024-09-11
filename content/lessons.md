@@ -9,131 +9,20 @@ widgets:
 ## Core Lessons in English
 
 {{< table >}}
-| Lesson   | Site  | Repository | Reference | Instructor Notes | Maintainers | 
-|----------|-------|------------|-----------| ---------------- | ----------- |
-| The Unix Shell    | <a href="{{< param shell_lesson >}}"><i class="{{< param fa-window>}}"></i></a> | <a href="{{< param shell_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a> | <a href="{{< param shell_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a> | <a href="{{< param shell_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a> | Jacob Deppen, Benson Muite | 
-| Version control with Git   | <a href="{{< param git_lesson >}}"><i class="{{< param fa-window>}}"></i></a> | <a href="{{< param git_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a> | <a href="{{< param git_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a> | <a href="{{< param git_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a> | Erin Graham, Katherine Koziar, Martino Sorbaro | 
-| Programming with Python   | <a href="{{< param python-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <a href="{{< param python-prog_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a> | <a href="{{< param python-prog_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a> | <a href="{{< param python-prog_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a> | Indraneel Chakraborty, Toan Phung, Alberto Villagran | 
-| Plotting and programming with Python   | <a href="{{< param python-plot_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <a href="{{< param python-plot_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a> | <a href="{{< param python-plot_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a> |  <a href="{{< param python-plot_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a> | Allen Lee, Sourav Singh, Olav Vahtras | 
-| Programming with R | <a href="{{< param r-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <a href="{{< param r-prog_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a> | <a href="{{< param r-prog_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a> | <a href="{{< param r-prog_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a> | Rohit Goswami, Hugo Gruson, Isaac Jennings | 
-| R for Reproducible Scientific Analysis | <a href="{{< param r-repro_lesson >}}"><i class="{{< param fa-window>}}"></i></a>  | <a href="{{< param r-repro_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a> | <a href="{{< param r-repro_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a> | <a href="{{< param r-repro_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a> | Matthieu Bruneaux, Sehrish Kanwal, Naupaka Zimmerman | 
-
-{{< /table >}}
-
-
-
-Testing out same table in HTML - better code readability
-
-
-{{< table >}}
-<table>
-<thead>
-<tr>
-<th>Lesson</th>
-<th>Site</th>
-<th>Repository</th>
-<th>Reference</th>
-<th>Instructor Notes</th>
-<th>Maintainers</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>The Unix Shell</td>
-<td><a href="{{< param shell_lesson >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param shell_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param shell_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param shell_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Jacob Deppen, Benson Muite</td>
-</tr>
-<tr>
-<td>Version control with Git</td>
-<td><a href="{{< param git_lesson >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param git_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param git_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param git_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Erin Graham, Katherine Koziar, Martino Sorbaro</td>
-</tr>
-<tr>
-<td>Programming with Python</td>
-<td><a href="{{< param python-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param python-prog_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param python-prog_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param python-prog_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Indraneel Chakraborty, Toan Phung, Alberto Villagran</td>
-</tr>
-<tr>
-<td>Plotting and programming with Python</td>
-<td><a href="{{< param python-plot_lesson >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param python-plot_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param python-plot_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param python-plot_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Allen Lee, Sourav Singh, Olav Vahtras</td>
-</tr>
-<tr>
-<td>Programming with R</td>
-<td><a href="{{< param r-prog_lesson >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param r-prog_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param r-prog_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param r-prog_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Rohit Goswami, Hugo Gruson, Isaac Jennings</td>
-</tr>
-<tr>
-<td>R for Reproducible Scientific Analysis</td>
-<td><a href="{{< param r-repro_lesson >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param r-repro_lesson_repo >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param r-repro_lesson_ref >}}"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param r-repro_lesson_notes >}}"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Matthieu Bruneaux, Sehrish Kanwal, Naupaka Zimmerman</td>
-</tr>
-</tbody>
-</table>
+{{< lesson_table curriculum="core" >}}
 {{< /table >}}
 
 ## Core Lessons in Spanish
 
 {{< table >}}
-<table>
-<thead>
-<tr>
-<th>Lección</th>
-<th>Sitio web</th>
-<th>Repositorio</th>
-<th>Referencias</th>
-<th>Notas para Instructoras/es</th>
-<th>Reponsable(s) del mantenimiento</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>La Terminal de Unix</td>
-<td><a href="{{< param shell_lesson-es >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param shell_lesson-repo-es >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param shell_lesson-es >}}/reference"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param shell_lesson-es >}}/instructor/instructor-notes"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Verónica Jiménez, Clara Llebot, Heladia Salgado</td>
-</tr>
-<tr>
-<td>Control de versiones con Git	</td>
-<td><a href="{{< param git_lesson-es >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param git_lesson_repo-es >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param git_lesson-es >}}/reference"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param git_lesson-es >}}/instructor/instructor-notes"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Jean-Paul Courneya, Clara Llebot, Mariana Patricia Gomez Nicolas</td>
-</tr>
-<tr>
-<td>R para Análisis Científicos Reproducibles</td>
-<td><a href="{{< param r-repro_lesson-es >}}"><i class="{{< param fa-window>}}"></i></a></td>
-<td><a href="{{< param r-repro_lesson_repo-es >}}"><i class="{{< param fa-github >}}"></i></a></td>
-<td><a href="{{< param r-repro_lesson-es >}}/reference"><i class="{{< param fa-eye >}}"></i></a></td>
-<td><a href="{{< param r-repro_lesson-es >}}/instructor/instructor-notes"><i class="{{< param fa-plus >}}"></i></a></td>
-<td>Verónica Jiménez, Heladia Salgado, Nelly Sélem</td>
-</tr>
-</tbody>
-</table>
+{{< lesson_table curriculum="core-es" >}}
 {{< /table >}}
 
 ## Additional Lessons
 
-Additional Lessons table goes here
+These lessons are not part of Software Carpentry core lessons but can be offered as supplementary lessons. Please contact us for more information.
+
+{{< table >}}
+{{< lesson_table curriculum="additional" >}}
+{{< /table >}}
 
