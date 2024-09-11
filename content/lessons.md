@@ -14,7 +14,7 @@ widgets:
 ## Core Lessons in Spanish
 
 {{< table >}}
-{{< lesson_table curriculum="core-es" >}}
+{{< lesson_table curriculum="core-es" language="spanish" >}}
 {{< /table >}}
 
 ## Additional Lessons
