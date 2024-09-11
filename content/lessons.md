@@ -3,7 +3,6 @@ title: Software Carpentry Lessons
 layout: single
 widgets:
 - newsletter
-- sponsors
 ---
 
 ## Core Lessons in English
