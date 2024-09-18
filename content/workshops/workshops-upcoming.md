@@ -5,6 +5,7 @@ data_source: https://feeds.carpentries.org/swc_upcoming_workshops.json
 lesson_program: 'SWC'
 ---
 
+Below is a list of our upcoming workshops. If you are interested in knowing more about an individual event, please click on the event to navigate to the workshop webpage. If you have questions about an event, contact information for the event organisers can be found under the “General Information” section of the workshop webpage.  
 
-Here is some text about upcoming workshops. Marshmallow chupa chups candy marzipan icing jelly toffee gingerbread. Cookie macaroon chocolate sweet apple pie. Pie cheesecake cupcake apple pie ice cream bonbon chupa chups cake. Check out our [past workshops here](/workshops/workshops-past).
+Check out our [past workshops here](/workshops/workshops-past).
 
