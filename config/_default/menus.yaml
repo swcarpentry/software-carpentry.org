@@ -22,14 +22,19 @@ main:
   url: "/"
   parent: null
   weight: 10
+- identifier: software-carpentry
+  name: Software Carpentry
+  url: /about-us/
+  weight: 10
+  parent: about-us 
 - identifier: governance
   name: Governance
-  pageRef: "/governance/"
+  url: "/about-us/governance/"
   parent: about-us
   weight: 20
 - identifier: curriculum-advisors
   name:  Curriculum Advisors
-  url: "/curriculum-advisors/"
+  url: "/about-us/curriculum-advisors/"
   parent: about-us
   weight: 30
 # Learn Menu
