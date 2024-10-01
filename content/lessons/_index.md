@@ -9,7 +9,7 @@ A Software Carpentry workshop is taught by at least one trained and badged instr
 
 You may also enjoy [Data Carpentry's lessons]({{< param dc-website >}}/lessons) (which focus on data organization, cleanup, analysis, and visualization) and [Library Carpentry's lessons]({{< param lc-website >}}/lessons) (which apply concepts of software development and data science to library contexts).
 
-Please [contact us]({{< param team_email >}}) with any general questions.
+Please [contact us]({{< param contact >}}) with any general questions.
 
 ## Core Lessons in English
 
@@ -25,7 +25,7 @@ Please [contact us]({{< param team_email >}}) with any general questions.
 
 ## Additional Lessons
 
-These lessons are not part of the core Software Carpentry curriculum but can be offered as supplementary lessons. Please contact us for more information.
+These lessons are not part of the core Software Carpentry curriculum but can be offered as supplementary lessons. Please [contact us]({{< param contact >}}) for more information.
 
 {{< table >}}
 {{< lesson_table curriculum="additional" >}}
