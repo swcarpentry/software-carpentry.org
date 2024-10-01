@@ -7,7 +7,7 @@ widgets:
 
 A Software Carpentry workshop is taught by at least one trained and badged instructor. Over the course of the workshop, instructors teach our three core topics: the Unix shell, version control with Git, and a programming language (Python or R). Curricula for these lessons in English and Spanish (select lessons only) are below.
 
-You may also enjoy Data Carpentry's lessons (which focus on data organization, cleanup, analysis, and visualization) and Library Carpentry's lessons (which apply concepts of software development and data science to library contexts).
+You may also enjoy [Data Carpentry's lessons]({{< param dc-website >}}/lessons) (which focus on data organization, cleanup, analysis, and visualization) and [Library Carpentry's lessons]({{< param lc-website >}}/lessons) (which apply concepts of software development and data science to library contexts).
 
 Please [contact us]({{< param team_email >}}) with any general questions.
 
@@ -25,7 +25,7 @@ Please [contact us]({{< param team_email >}}) with any general questions.
 
 ## Additional Lessons
 
-These lessons are not part of Software Carpentry core lessons but can be offered as supplementary lessons. Please contact us for more information.
+These lessons are not part of the core Software Carpentry curriculum but can be offered as supplementary lessons. Please contact us for more information.
 
 {{< table >}}
 {{< lesson_table curriculum="additional" >}}
@@ -33,4 +33,4 @@ These lessons are not part of Software Carpentry core lessons but can be offered
 
 ## Community Developed Lessons
 
-The Carpentries also shares The Carpentries Community Developed Lessons. This includes The Carpentries Incubator (lessons under development and seeking peer review), and The CarpentriesLab (lessons that have been vetted by The Carpentries but are not part of our standard offerings).
+The Carpentries also shares The Carpentries Community Developed Lessons. This includes The Carpentries Incubator (lessons under development and seeking peer review), and The Carpentries Lab (lessons that have been vetted by The Carpentries but are not part of our standard offerings).
