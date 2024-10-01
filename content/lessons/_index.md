@@ -33,4 +33,4 @@ These lessons are not part of the core Software Carpentry curriculum but can be 
 
 ## Community Developed Lessons
 
-The Carpentries also shares The Carpentries Community Developed Lessons. This includes The Carpentries Incubator (lessons under development and seeking peer review), and The CarpentriesLab (lessons that have been vetted by The Carpentries but are not part of our standard offerings).
+The Carpentries also shares The Carpentries Community Developed Lessons. This includes The Carpentries Incubator (lessons under development and seeking peer review), and The Carpentries Lab (lessons that have been vetted by The Carpentries but are not part of our standard offerings).
