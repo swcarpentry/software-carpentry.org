@@ -25,7 +25,7 @@ Please [contact us]({{< param team_email >}}) with any general questions.
 
 ## Additional Lessons
 
-These lessons are not part of Software Carpentry core lessons but can be offered as supplementary lessons. Please contact us for more information.
+These lessons are not part of the core Software Carpentry curriculum but can be offered as supplementary lessons. Please contact us for more information.
 
 {{< table >}}
 {{< lesson_table curriculum="additional" >}}
