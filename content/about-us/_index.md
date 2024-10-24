@@ -2,6 +2,8 @@
 title: About us
 layout: single
 hideToc: true 
+widgets:
+- newsletter
 ---
 
 Software Carpentry develops and teaches workshops on the fundamental programming skills needed to conduct research. Our mission is to provide researchers high-quality, domain-specific training covering all aspects of research software engineering.
