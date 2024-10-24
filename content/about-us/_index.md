@@ -1,5 +1,5 @@
 --- 
-title: Software Carpentry
+title: About us
 layout: single
 hideToc: true 
 ---
