@@ -13,7 +13,7 @@ top:
     url: /
     weight: 40
     params:
-    active: true
+       active: true
 # Main menu
 main:
 # Main menu: About
