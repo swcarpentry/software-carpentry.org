@@ -11,7 +11,7 @@ top:
     weight: 30
   - name: Software Carpentry
     url: /
-    weight: 30
+    weight: 40
     params:
     active: true
 # Main menu
