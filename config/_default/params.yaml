@@ -11,9 +11,9 @@ git_repo: https://github.com/swcarpentry/new-website
 team_email: team@carpentries.org
 
 # Other websites
-dc-website: https://dc-new-website.netlify.app/
-lc-website:  https://lc-new-website.netlify.app/
-carpentries-website: https://carp-new-website.netlify.app/
+dc-website: https://datacarpentry.org/
+lc-website:  https://librarycarpentry.org/
+carpentries-website: https://carpentries.org/
 
 # Contact 
-contact: https://carp-new-website.netlify.app/contact
+contact: https://carpentries.org/contact

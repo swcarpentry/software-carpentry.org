@@ -1,13 +1,13 @@
 # Top menu for Carpentries & Lesson Programs
 top:
   - name: The Carpentries
-    url: https://carp-new-website.netlify.app/
+    url: https://carpentries.org/
     weight: 10
   - name: Data Carpentry
-    url: https://dc-new-website.netlify.app/
+    url: https://datacarpentry.org/
     weight: 20
   - name: Library Carpentry
-    url: https://lc-new-website.netlify.app/
+    url: https://librarycarpentry.org/
     weight: 30
   - name: Software Carpentry
     url: /
@@ -62,22 +62,22 @@ footer:
 # Footer menu: Menu 1 (About us)
 - identifier: about-us-footer
   name: About The Carpentries
-  url: "https://carp-new-website.netlify.app/about-us/"
+  url: "https://carpentries.org/about-us/"
   parent: null
   weight: 10
 - identifier: mission
   name: Our mission
-  url: "https://carp-new-website.netlify.app/about-us/#our-mission"
+  url: "https://carpentries.org/about-us/#our-mission"
   parent: about-us-footer
   weight: 20
 - identifier: history
   name: Our history
-  url: "https://carp-new-website.netlify.app/about-us/#our-history"
+  url: "https://carpentries.org/about-us/#our-history"
   parent: about-us-footer
   weight: 30
 - identifier: values
   name: Our values
-  url: "https://carp-new-website.netlify.app/about-us/#our-values"
+  url: "https://carpentries.org/about-us/#our-values"
   parent: about-us-footer
   weight: 40
 # Footer menu: Menu 2 (Our Community)
@@ -88,17 +88,17 @@ footer:
   weight: 20
 - identifier: volunteers
   name: Our volunteers
-  url: https://carp-new-website.netlify.app/community/
+  url: https://carpentries.org/community/
   parent: community-footer
   weight: 20
 - identifier: governance
   name: Our governance
-  url: "https://carp-new-website.netlify.app/about-us/governance/"
+  url: "https://carpentries.org/about-us/governance/"
   parent: community-footer
   weight: 30
 - identifier: get-involved
   name: Get involved
-  url: "https://carp-new-website.netlify.app/community/get-connected/"
+  url: "https://carpentries.org/community/get-connected/"
   parent: community-footer
   weight: 40
 # Footer menu: Menu 3 (Membership)
@@ -109,17 +109,17 @@ footer:
   weight: 30
 - identifier: membership-faq
   name: Membership FAQ
-  url: "https://carp-new-website.netlify.app/support/membership/membership-faq/"
+  url: "https://carpentries.org/support/membership/membership-faq/"
   parent: membership-footer
   weight: 20
 - identifier: current-members
   name: Current members
-  url: "https://carp-new-website.netlify.app/support/membership/member-list/"
+  url: "https://carpentries.org/support/membership/member-list/"
   parent: membership-footer
   weight: 30
 - identifier: become-member
   name: Become a member
-  url: "https://carp-new-website.netlify.app/support/membership/"
+  url: "https://carpentries.org/support/membership/"
   parent: membership-footer
   weight: 40
 # Footer menu: Menu 4 (Workshops)
@@ -130,17 +130,17 @@ footer:
   weight: 40
 - identifier: workshops-faq
   name: Workshops FAQ
-  url: "https://carp-new-website.netlify.app/workshops/workshops-faq/"
+  url: "https://carpentries.org/workshops/workshops-faq/"
   parent: workshops-footer
   weight: 10 
 - identifier: workshops-upcoming
   name: Upcoming workshops
-  url: "https://carp-new-website.netlify.app/workshops/upcoming-workshops/"
+  url: "https://carpentries.org/workshops/upcoming-workshops/"
   parent: workshops-footer
   weight: 20
 - identifier: workshops-request
   name: Request a workshop
-  url: "https://carp-new-website.netlify.app/workshops/host-workshop/"
+  url: "https://carpentries.org/workshops/host-workshop/"
   parent: workshops-footer
   weight: 30
 # Footer menu 5 (Lessons)
@@ -151,17 +151,17 @@ footer:
   weight: 50
 - identifier: lessons-search
   name: Search lessons
-  url: "https://carp-new-website.netlify.app/lessons/"
+  url: "https://carpentries.org/lessons/"
   parent: lessons-footer
   weight: 10
 - identifier: lessons-instructor-training
   name: Instructor Training
-  url: "https://carp-new-website.netlify.app/instructor-training/"
+  url: "https://carpentries.org/instructor-training/"
   parent: lessons-footer
   weight: 20
 - identifier: lessons-trainer-training
   name: Instructor Trainer Training
-  url: "https://carp-new-website.netlify.app/trainer-training/"
+  url: "https://carpentries.org/trainer-training/"
   parent: lessons-footer
   weight: 30
 # Footer menu 6 (Lesson Development)
@@ -172,7 +172,7 @@ footer:
   weight: 60
 - identifier: cldt-footer
   name: Collaborative Lesson Development Training
-  url: "https://carp-new-website.netlify.app/lesson-development/"
+  url: "https://carpentries.org/lesson-development/"
   parent: lesson-development-footer
   weight: 10
 - indentifier: incubator-footer
