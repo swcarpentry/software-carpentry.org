@@ -73,7 +73,7 @@ curricula:
   curriculum: core-es
 
 - lessonname: Automation and Make	
-  site: Automation and Make	
+  site: https://swcarpentry.github.io/make-novice	
   repo: https://github.com/swcarpentry/make-novice
   ref: https://swcarpentry.github.io/make-novice/reference
   inst_notes: https://swcarpentry.github.io/make-novice/instructor/instructor-notes
