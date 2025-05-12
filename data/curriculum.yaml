@@ -5,7 +5,7 @@ curricula:
   repo: https://github.com/swcarpentry/shell-novice
   ref: https://swcarpentry.github.io/shell-novice/reference
   inst_notes: https://swcarpentry.github.io/shell-novice/instructor/instructor-notes
-  maintainers: Benson Muite
+  maintainers: Benson Muite, Pariksheet Nanda, Ahmed Unshur
   curriculum: core
 
 - lessonname: Version control with Git
@@ -21,7 +21,7 @@ curricula:
   repo: https://github.com/swcarpentry/python-novice-inflammation
   ref: https://swcarpentry.github.io/python-novice-inflammation/reference
   inst_notes: https://swcarpentry.github.io/python-novice-inflammation/instructor/instructor-notes
-  maintainers: Indraneel Chakraborty, Toan Phung
+  maintainers: Indraneel Chakraborty, Junaid Mir, Toan Phung
   curriculum: core
 
 - lessonname: Plotting and programming with Python
@@ -37,7 +37,7 @@ curricula:
   repo: https://github.com/swcarpentry/r-novice-inflammation
   ref: https://swcarpentry.github.io/r-novice-inflammation/reference
   inst_notes: https://swcarpentry.github.io/r-novice-inflammation/instructor/instructor-notes
-  maintainers: Rohit Goswami, Hugo Gruson
+  maintainers: Thomas Cason, Rohit Goswami, Hugo Gruson, Katie O'Mahony
   curriculum: core
 
 - lessonname: R for Reproducible Scientific Analysis
@@ -45,7 +45,7 @@ curricula:
   repo: https://github.com/swcarpentry/r-novice-gapminder
   ref: https://swcarpentry.github.io/r-novice-gapminder/reference
   inst_notes: https://swcarpentry.github.io/r-novice-gapminder/instructor/instructor-notes
-  maintainers: Matthieu Bruneaux, Sehrish Kanwal, Naupaka Zimmerman
+  maintainers: Matthieu Bruneaux, Craig Gross, Sehrish Kanwal, Naupaka Zimmerman
   curriculum: core
 
 - lessonname: La Terminal de Unix
@@ -93,5 +93,5 @@ curricula:
   repo: https://github.com/swcarpentry/sql-novice-survey
   ref: https://swcarpentry.github.io/sql-novice-survey/reference
   inst_notes: https://swcarpentry.github.io/sql-novice-survey/instructor/instructor-notes
-  maintainers: 	Henry Senyondo
+  maintainers: Novica Nakov, Henry Senyondo, Kellie Templeman
   curriculum: additional
