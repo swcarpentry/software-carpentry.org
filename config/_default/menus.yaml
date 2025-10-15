@@ -57,6 +57,13 @@ main:
 - identifier: lessons
   name: Lessons
   url: "/lessons/"
+  weight: 30
+# Donate 
+- identifier: donate
+  name: Donate
+  url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=softwarecarpentry"
+  parent: null
+  weight: 40
 
 footer:
 # Footer menu: Menu 1 (About us)
