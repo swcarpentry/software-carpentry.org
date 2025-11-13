@@ -2,18 +2,39 @@
 #   Font-Awesome Icon names as found here: https://fontawesome.com/v4.7.0/icons/
 people:
 
+- person_name: Joey Bernard
+  github: 	joeybernard
+  country: CA
+  position: Co-chair
+
+- person_name: Sarah Stevens 
+  github: 	sstevens2
+  country: US
+  position: Co-chair
+
+- person_name: Deborah Udoh
+  github: NPDebs
+  country: NG
+  position: Secretary
+
+- person_name: Magnus Hagdorn
+  github:  mhagdorn
+  country: DE
+  position: 
+
 - person_name: Samantha Ahern
   github: quirksahern
   country: GB
-  position: Co-chair
+  position:
 
-- person_name: Valentina Ahern
-  github: vhmcck
-  country: AU
-  position: Co-chair
+- person_name: Aman Goel
+  github: amangoel185
+  country: GB
+  position:
 
 - person_name: Martino Sorbaro
   github: martinosorb
   country: IT
-  position: Secretary
+  position:
+
 
