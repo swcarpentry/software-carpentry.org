@@ -57,7 +57,7 @@ curricula:
   curriculum: core-es
 
 - lessonname: Control de versiones con Git
-  site: https://swcarpentry.github.io/shell-novice-es
+  site: https://swcarpentry.github.io/git-novice-es
   repo: https://github.com/swcarpentry/git-novice-es
   ref: https://swcarpentry.github.io/git-novice-es/reference
   inst_notes: https://swcarpentry.github.io/git-novice-es/instructor/instructor-notes
