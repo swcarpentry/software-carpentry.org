@@ -53,7 +53,7 @@ curricula:
   repo: https://github.com/swcarpentry/shell-novice-es
   ref: https://swcarpentry.github.io/shell-novice-es/reference
   inst_notes: https://swcarpentry.github.io/shell-novice-es/instructor/instructor-notes
-  maintainers: Verónica Jiménez, Clara Llebot, Heladia Salgado
+  maintainers: Clara Llebot, Heladia Salgado
   curriculum: core-es
 
 - lessonname: Control de versiones con Git
@@ -69,7 +69,7 @@ curricula:
   repo: https://github.com/swcarpentry/r-novice-gapminder-es
   ref: https://swcarpentry.github.io/r-novice-gapminder-es/reference
   inst_notes: https://swcarpentry.github.io/r-novice-gapminder-es/instructor/instructor-notes
-  maintainers: Verónica Jiménez, Heladia Salgado, Nelly Sélem
+  maintainers: Heladia Salgado, Nelly Sélem
   curriculum: core-es
 
 - lessonname: Automation and Make	
@@ -93,5 +93,5 @@ curricula:
   repo: https://github.com/swcarpentry/sql-novice-survey
   ref: https://swcarpentry.github.io/sql-novice-survey/reference
   inst_notes: https://swcarpentry.github.io/sql-novice-survey/instructor/instructor-notes
-  maintainers: Novica Nakov, Henry Senyondo, Kellie Templeman
+  maintainers: Novica Nakov, Henry Senyondo
   curriculum: additional
