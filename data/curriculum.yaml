@@ -5,7 +5,7 @@ curricula:
   repo: https://github.com/swcarpentry/shell-novice
   ref: https://swcarpentry.github.io/shell-novice/reference
   inst_notes: https://swcarpentry.github.io/shell-novice/instructor/instructor-notes
-  maintainers: Benson Muite, Pariksheet Nanda, Ahmed Unshur
+  maintainers: Amanda Kis, Benson Muite, Pariksheet Nanda
   curriculum: core
 
 - lessonname: Version control with Git
@@ -21,7 +21,7 @@ curricula:
   repo: https://github.com/swcarpentry/python-novice-inflammation
   ref: https://swcarpentry.github.io/python-novice-inflammation/reference
   inst_notes: https://swcarpentry.github.io/python-novice-inflammation/instructor/instructor-notes
-  maintainers: Indraneel Chakraborty, Junaid Mir, Toan Phung
+  maintainers: Indraneel Chakraborty, Olushola Ogunkelu, Toan Phung
   curriculum: core
 
 - lessonname: Plotting and programming with Python
@@ -29,7 +29,7 @@ curricula:
   repo: https://github.com/swcarpentry/python-novice-gapminder
   ref: https://swcarpentry.github.io/python-novice-gapminder/reference
   inst_notes: https://swcarpentry.github.io/python-novice-gapminder/instructor/instructor-notes
-  maintainers: Allen Lee, Sourav Singh, Olav Vahtras
+  maintainers: Allen Lee, Olav Vahtras, Sourav Singh
   curriculum: core
 
 - lessonname: Programming with R
@@ -37,7 +37,7 @@ curricula:
   repo: https://github.com/swcarpentry/r-novice-inflammation
   ref: https://swcarpentry.github.io/r-novice-inflammation/reference
   inst_notes: https://swcarpentry.github.io/r-novice-inflammation/instructor/instructor-notes
-  maintainers: Thomas Cason, Rohit Goswami, Hugo Gruson, Katie O'Mahony
+  maintainers: Hugo Gruson, Katie O'Mahony, Rohit Goswami
   curriculum: core
 
 - lessonname: R for Reproducible Scientific Analysis
@@ -45,7 +45,7 @@ curricula:
   repo: https://github.com/swcarpentry/r-novice-gapminder
   ref: https://swcarpentry.github.io/r-novice-gapminder/reference
   inst_notes: https://swcarpentry.github.io/r-novice-gapminder/instructor/instructor-notes
-  maintainers: Matthieu Bruneaux, Craig Gross, Sehrish Kanwal, Naupaka Zimmerman
+  maintainers: Craig Gross, Naupaka Zimmerman, Sehrish Kanwal
   curriculum: core
 
 - lessonname: La Terminal de Unix
@@ -53,7 +53,7 @@ curricula:
   repo: https://github.com/swcarpentry/shell-novice-es
   ref: https://swcarpentry.github.io/shell-novice-es/reference
   inst_notes: https://swcarpentry.github.io/shell-novice-es/instructor/instructor-notes
-  maintainers: Clara Llebot, Heladia Salgado
+  maintainers: Heladia Salgado, Maria Alejandra Torres Meraz
   curriculum: core-es
 
 - lessonname: Control de versiones con Git
@@ -61,7 +61,7 @@ curricula:
   repo: https://github.com/swcarpentry/git-novice-es
   ref: https://swcarpentry.github.io/git-novice-es/reference
   inst_notes: https://swcarpentry.github.io/git-novice-es/instructor/instructor-notes
-  maintainers: Jean-Paul Courneya, Clara Llebot
+  maintainers: Jean-Paul Courneya, Luna Fazio
   curriculum: core-es
 
 - lessonname: R para Análisis Científicos Reproducibles
@@ -69,7 +69,7 @@ curricula:
   repo: https://github.com/swcarpentry/r-novice-gapminder-es
   ref: https://swcarpentry.github.io/r-novice-gapminder-es/reference
   inst_notes: https://swcarpentry.github.io/r-novice-gapminder-es/instructor/instructor-notes
-  maintainers: Heladia Salgado, Nelly Sélem
+  maintainers: Alyssa Columbus, Heladia Salgado, Nelly Sélem
   curriculum: core-es
 
 - lessonname: Automation and Make	
@@ -93,5 +93,5 @@ curricula:
   repo: https://github.com/swcarpentry/sql-novice-survey
   ref: https://swcarpentry.github.io/sql-novice-survey/reference
   inst_notes: https://swcarpentry.github.io/sql-novice-survey/instructor/instructor-notes
-  maintainers: Novica Nakov, Henry Senyondo
+  maintainers: Henry Senyondo, Novica Nakov
   curriculum: additional
