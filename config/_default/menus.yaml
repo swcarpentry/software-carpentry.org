@@ -6,12 +6,15 @@ top:
   - name: Data Carpentry
     url: https://datacarpentry.org/
     weight: 20
+  - name: HPC Carpentry
+    url: https://hpc-carpentry.org/
+    weight: 30
   - name: Library Carpentry
     url: https://librarycarpentry.org/
-    weight: 30
+    weight: 40
   - name: Software Carpentry
     url: /
-    weight: 40
+    weight: 50
     params:
        active: true
 # Main menu
